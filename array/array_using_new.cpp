@@ -1,3 +1,4 @@
+// Declareation of array using new keyword
 #include <iostream>
 int main()
 {
@@ -18,4 +19,5 @@ int main()
   std::cout << "end of array elements" << std::endl;
   delete[] arr;
   return 0;
+
 }
