@@ -9,6 +9,8 @@ Problems are organized by topic such as Arrays, Two Pointers, and LeetCode quest
 ## Topics Covered
 - Arrays
 - Two Pointers
+- String
+- Hashset
 - Basic Problems
 - LeetCode Problems
 
